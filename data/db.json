@@ -2,11 +2,13 @@
     "users": [
         {
             "id": "1",
-            "name": "Ivan"
+            "name": "Ivan",
+            "image": "img_1"
         },
         {
             "id": "2",
-            "name": "Sergey"
+            "name": "Sergey",
+            "image": ""
         }
     ]
 }

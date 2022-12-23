@@ -1,0 +1,7 @@
+@use "styles/_var.module.scss" as *;
+
+.title {
+    color: $colorRed;
+    font-size: 2rem;
+    font-weight: 100;
+}
